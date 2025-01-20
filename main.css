@@ -1,0 +1,11 @@
+/* main.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: hwb(0 4% 96%);
+    color: hsl(0, 30%, 96%);
+  }
+  
+  h1 {
+    color: rgb(245, 245, 247);
+  }
+  
